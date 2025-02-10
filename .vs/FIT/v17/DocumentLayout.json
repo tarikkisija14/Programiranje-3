@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|c:\\users\\tarik\\desktop\\kompletan prvi rok\\fit.data\\ib230005\\polozenipredmetiib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|solutionrelative:fit.data\\ib230005\\polozenipredmetiib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|c:\\users\\tarik\\desktop\\kompletan prvi rok\\fit.data\\ib230005\\predmetiib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|solutionrelative:fit.data\\ib230005\\predmetiib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|c:\\users\\tarik\\desktop\\kompletan prvi rok\\fit.data\\ib230005\\semestriib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCC8569-FF63-491F-B0F3-291FB044D0FA}|FIT.Data\\FIT.Data.csproj|solutionrelative:fit.data\\ib230005\\semestriib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9CB7E0-5069-43E6-ACE8-CD67D4197328}|FIT.WinForms\\FIT.WinForms.csproj|c:\\users\\tarik\\desktop\\kompletan prvi rok\\fit.winforms\\ib230005\\frmdrzavegradoviib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D9CB7E0-5069-43E6-ACE8-CD67D4197328}|FIT.WinForms\\FIT.WinForms.csproj|solutionrelative:fit.winforms\\ib230005\\frmdrzavegradoviib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9CB7E0-5069-43E6-ACE8-CD67D4197328}|FIT.WinForms\\FIT.WinForms.csproj|C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\fit.winforms\\ib230005\\frmdrzavegradoviib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D9CB7E0-5069-43E6-ACE8-CD67D4197328}|FIT.WinForms\\FIT.WinForms.csproj|solutionrelative:fit.winforms\\ib230005\\frmdrzavegradoviib230005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolozeniPredmetiIB230005.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\PolozeniPredmetiIB230005.cs",
+              "RelativeDocumentMoniker": "FIT.Data\\IB230005\\PolozeniPredmetiIB230005.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\PolozeniPredmetiIB230005.cs",
+              "RelativeToolTip": "FIT.Data\\IB230005\\PolozeniPredmetiIB230005.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:20:15.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredmetiIB230005.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\PredmetiIB230005.cs",
+              "RelativeDocumentMoniker": "FIT.Data\\IB230005\\PredmetiIB230005.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\PredmetiIB230005.cs",
+              "RelativeToolTip": "FIT.Data\\IB230005\\PredmetiIB230005.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:20:12.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SemestriIB230005.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\SemestriIB230005.cs",
+              "RelativeDocumentMoniker": "FIT.Data\\IB230005\\SemestriIB230005.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.Data\\IB230005\\SemestriIB230005.cs",
+              "RelativeToolTip": "FIT.Data\\IB230005\\SemestriIB230005.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:20:10.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDrzaveGradoviIB230005.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "RelativeDocumentMoniker": "FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "RelativeToolTip": "FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:46:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDrzaveGradoviIB230005.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "RelativeDocumentMoniker": "FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\KOMPLETAN PRVI ROK\\FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs [Design]",
+              "RelativeToolTip": "FIT.WinForms\\IB230005\\frmDrzaveGradoviIB230005.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:46:24.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
